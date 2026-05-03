@@ -1,4 +1,4 @@
-<h1 align="center">Scieneaux 👋</h1>
+<h1 align="center">Hi i'm Scieneaux 👋</h1>
 
 <p align="center">
   Blue Team Focused | SIEM & Threat Analysis
@@ -31,7 +31,6 @@ I approach each project with the mindset of a security analyst, focusing on vali
 
 <p align="center">
   <a href="https://github.com/yourusername/sentinel-threat-detection-lab">Sentinel Lab</a> •
-  <a href="https://github.com/yourusername/splunk-threat-hunting-project">Splunk Project</a> •
   <a href="https://github.com/yourusername">All Projects</a>
 </p>
 
@@ -39,11 +38,11 @@ I approach each project with the mindset of a security analyst, focusing on vali
 
 <h2>🌐 Connect with me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="www.linkedin.com/in/scieneaux-jarmon-21ba502b6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://twitter.com/your-link">
+  <a href="https://x.com/scieneaux1">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
