@@ -4,7 +4,6 @@
   Blue Team Focused | SIEM & Threat Analysis
 </p>
 
-<hr>
 
 <h2>🧿 About Me</h2>
 
