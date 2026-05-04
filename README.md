@@ -12,7 +12,7 @@ I’m an Information Science & Technology graduate with a minor in Cybersecurity
 </p>
 
 <p>
-In my current role, I investigate system issues, analyze logs, and resolve technical problems that impact users and operations — building a strong foundation in identifying anomalies, understanding system behavior, and responding to incidents in real time.
+In my current role, I investigate system issues, analyze logs, and resolve technical problems that impact users and operations. This has allowed me to build a strong foundation in identifying anomalies, understanding system behavior, and responding to incidents in real time.
 </p>
 
 <p>
